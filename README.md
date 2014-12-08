@@ -3,8 +3,16 @@
   languages: ruby
 ---
 
- Build your own sort method. It does not have to be fancy, any sort will do.
- There are many listed here: http://en.wikipedia.org/wiki/Sorting_algorithm#Summaries_of_popular_sorting_algorithms
+# Sorting Algorithms
+
+## Objective
+
+Build your own sort method. It does not have to be fancy, any sort will do.
+
+## Background
+
+There are many listed [here](http://en.wikipedia.org/wiki/Sorting_algorithm#Summaries_of_popular_sorting_algorithms).
+ 
  insertion sort or selection sort are probably easiest
 
  The purpose is to let the user customize how you sort the array by submitting a block that tells you which
