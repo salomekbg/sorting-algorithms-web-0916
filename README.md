@@ -92,8 +92,6 @@ do_something("hello"){ |word| word.upcase }
   => "HELLO"
 ```
 
-![Power](http://media.giphy.com/media/A9grgCQ0Dm012/giphy.gif)
-
 ## Sorting Algorithms
 
 There are many listed [here](http://en.wikipedia.org/wiki/Sorting_algorithm#Summaries_of_popular_sorting_algorithms).
