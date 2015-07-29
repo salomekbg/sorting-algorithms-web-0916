@@ -1,7 +1,4 @@
----
-  tags: arrays, iteration, sorting, algorithms
-  languages: ruby
----
+
 
 # Sorting Algorithms
 
